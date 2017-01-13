@@ -1,0 +1,9 @@
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\bin\Debug\Levenshtein.dll
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\bin\Debug\Levenshtein.pdb
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\bin\Debug\Levenshtein.xml
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.vbprojResolveAssemblyReference.cache
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.Resources.resources
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.vbproj.GenerateResource.Cache
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.dll
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.xml
+C:\Users\Wilbert\Documents\GitHub\levenshtein\Levenshtein\obj\Debug\Levenshtein.pdb
